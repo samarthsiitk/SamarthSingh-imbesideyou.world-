@@ -1,0 +1,27 @@
+{
+  "model_info": {
+    "name": "codellama/CodeLlama-7b-Instruct-hf",
+    "precision": "FP16",
+    "quantization": "None",
+    "total_params": 6738546688,
+    "trainable_params": 19988480,
+    "trainable_ratio": "0.296%"
+  },
+  "training_config": {
+    "epochs": 6,
+    "learning_rate": 0.0002,
+    "effective_batch_size": 16,
+    "total_steps": 102,
+    "warmup_steps": 30
+  },
+  "dataset_info": {
+    "train_samples": 284,
+    "val_samples": 51,
+    "max_seq_length": 1024
+  },
+  "hardware_info": {
+    "device": "Tesla T4",
+    "memory_available": "2.12 GB",
+    "memory_used": "12.63 GB"
+  }
+}
