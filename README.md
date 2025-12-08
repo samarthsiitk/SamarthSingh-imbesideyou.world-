@@ -3,17 +3,6 @@
 
 This document outlines the technical strategy, architecture, and implementation details for a personalized, multi-agent AI system designed to automate the research-to-code pipeline.
 
-## LLMs Links That Helped Generate This Optimized Approach
-
-Here are the resources used to define the project's roadmap, fine-tuning strategy, and architecture:
-
-* **Main Roadmap & Code Generation Strategy:**
-    * [https://www.perplexity.ai/search/the-assignment-is-to-make-an-a-Eeyjw2GyTTW5FfiInAkajw](https://www.perplexity.ai/search/the-assignment-is-to-make-an-a-Eeyjw2GyTTW5FfiInAkajw)
-* **UI/UX Implementation Codes:**
-    * [https://www.perplexity.ai/search/based-on-the-practical-improve-leeunvBwTXGutPu6_gqMuA](https://www.perplexity.ai/search/based-on-the-practical-improve-leeunvBwTXGutPu6_gqMuA)
-* **Data Creation & LoRA Fine-Tuning Details:**
-    * [https://www.perplexity.ai/search/the-assignment-is-to-make-an-a-PUVaIupATuypQLEzwnMiXA](https://www.perplexity.ai/search/the-assignment-is-to-make-an-a-PUVaIupATuypQLEzwnMiXA)
-
 ---
 
 ## 1. Project Overview & Data Strategy
