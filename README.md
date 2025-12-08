@@ -1,4 +1,4 @@
-# SamarthSingh-imbesideyou.world-
+# SamarthSingh-
 # AI AGENT ASSIGNMENT
 
 This document outlines the technical strategy, architecture, and implementation details for a personalized, multi-agent AI system designed to automate the research-to-code pipeline.
